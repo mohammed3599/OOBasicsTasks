@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\bin\Debug\net6.0\OOBasicsTasks.exe
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\bin\Debug\net6.0\OOBasicsTasks.deps.json
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\bin\Debug\net6.0\OOBasicsTasks.runtimeconfig.json
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\bin\Debug\net6.0\OOBasicsTasks.dll
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\bin\Debug\net6.0\OOBasicsTasks.pdb
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.dll
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\refint\OOBasicsTasks.dll
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.pdb
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\OOBasicsTasks.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\OOBasicsTasks\OOBasicsTasks\obj\Debug\net6.0\ref\OOBasicsTasks.dll
